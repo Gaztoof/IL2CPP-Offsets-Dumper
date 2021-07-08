@@ -1,8 +1,8 @@
 # IL2CPP-Offsets-Dumper
-I AM AWARE OF THE EXTREME SPAGHETTI-NESS
 
-I will eventually update the whole project, to make it cleaner or better.
-For now, it's a single extremely spaghetti looking Program.cs, because when I made it I didn't really plan on sharing it or anyone else than me needing it.
-So I coded it as fast as i could (around 10 minutes), it is full of bad coded stuff, and quite dirty over-all, but I'll eventually fix that(one day...).
+I coded this in around 10 minutes, but recently had some free time so I recoded it.
+Code should still be pretty spaghetti but atleast it's better than before.
+
+Use IL2CPP Dumper (https://github.com/Perfare/Il2CppDumper) and once you have a dummy GameAssembly.dll, use this to get a .hpp file with every offsets for the target game.
 
 Feel free to do what-ever you want with it.
